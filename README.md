@@ -1,5 +1,7 @@
 # Project-Travel-Insurance
 
+### Minimizing the risk for the travel insurance company by predicting whether a customer would claim insurance based on existing data which would help the company make better decisions for sanctioning further insurance policies.
+
 - Predict the Claim of Insurance (Yes 1 or No 0).
 
 - Binary Classification problem having to deal with class imbalance.
