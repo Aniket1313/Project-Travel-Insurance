@@ -2,7 +2,7 @@
 
 <img src="https://flywithclass.com/wp-content/uploads/2018/01/banner-travel-1.jpg" style="width: 2000px"></img>
 
-## Minimizing the risk for the travel insurance company by predicting whether a customer would claim insurance based on existing data which would help the company make better decisions for sanctioning further insurance policies.
+### Minimizing the risk for the travel insurance company by predicting whether a customer would claim insurance based on existing data which would help the company make better decisions for sanctioning further insurance policies.
 
 - Predict the Claim of Insurance (Yes 1 or No 0).
 
