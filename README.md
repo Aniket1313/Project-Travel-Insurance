@@ -1,4 +1,4 @@
-# Project-Travel-Insurance
+# Project-Travel-Insurance-Claim-Prediciton
 
 <img src="https://flywithclass.com/wp-content/uploads/2018/01/banner-travel-1.jpg" style="width: 2000px"></img>
 
